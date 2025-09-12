@@ -83,6 +83,10 @@ div{
   border-top:2px solid #FFFFFF;
 }
 
+.green p {
+  color: #000000; 
+}
+
 
 footer{
   border:5px solid #FFFFFF;
