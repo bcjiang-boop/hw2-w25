@@ -104,4 +104,4 @@ footer p{
 
 .blue h2, .blue p{ color:#C4C4C4; }
 .yellow p{ color:#707070; }
-.green p { color: #111111; }
+.green p { color: #111111 !important; }
