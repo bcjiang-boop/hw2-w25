@@ -76,7 +76,7 @@ div{
 }
 
 .green{
-  background:#00D800;                     
+  background:#008500;                     
   text-align:left;
   margin-right:50px;
   border:0;
@@ -106,10 +106,10 @@ footer p{
 .yellow p{ color:#707070; }
 .green > p,
 .green p {
-  color: #111111 !important;
+  color: #FFFFFF !important;
 }
 
 .green > p a,
 .green p a {
-  color: #111111 !important;
+  color: #FFFFFF !important;
 }
