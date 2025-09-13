@@ -1,3 +1,4 @@
+@charset "utf-8";
 body{
   background:#000000;
   color:#FFFFFF;
@@ -22,7 +23,6 @@ p{
   padding-left:10px;                
 }
 
-
 img{
   width:250px;                            
   display:block;                          
@@ -30,13 +30,11 @@ img{
   border:10px dashed #FFFFFF;           
 }
 
-
 div{
   min-height:125px;
   padding:20px;
   border:3px solid #FFFFFF;              
 }
-
 
 .introduction{
   border-radius:15px;
@@ -44,16 +42,14 @@ div{
   line-height:2;                          
 }
 
-
 .red{
   background:#FF0000;
   text-align:right;
   margin-left:50px;
   border:0;
-  border-bottom:2px solid #FFFFFF;        
   border-left:5px solid #FFFFFF;
+  border-bottom:2px solid #FFFFFF;  
 }
-
 
 .blue{
   background:#0000FF;
@@ -64,20 +60,14 @@ div{
   border-top:2px solid #FFFFFF;
 }
 
-.blue h2, .blue p{ color:#C4C4C4; }
-
-
 .yellow{
   background:#FFFF00;
   text-align:right;
   margin-left:50px;
   border:0;
-  border-bottom:2px solid #FFFFFF;
   border-left:5px solid #FFFFFF;
+  border-bottom:2px solid #FFFFFF;
 }
-
-.yellow p{ color:#707070; }
-
 
 .green{
   background:#008500;                     
@@ -88,13 +78,7 @@ div{
   border-top:2px solid #FFFFFF;
 }
 
-.green p {
-  color: #141414; 
-}
-
-
 footer{
-  border:5px solid #FFFFFF;
   background:linear-gradient(
     to right,
     #000000 0%,
@@ -102,9 +86,14 @@ footer{
     #0066FF 70%,
     #000000 100%
   );
+  border:5px solid #FFFFFF;
 }
 footer p{
   font-size:20px;
   text-align:right;
   padding:15px 15px 15px 0;               
 }
+
+.blue h2, .blue p{ color:#C4C4C4; }
+.yellow p{ color:#707070; }
+.green p { color: #0D0D0D; }
