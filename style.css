@@ -48,7 +48,9 @@ div{
   margin-left:50px;
   border:0;
   border-left:5px solid #FFFFFF;
-  border-bottom:2px solid #FFFFFF;  
+  border-bottom:2px solid #FFFFFF; 
+  border-top:3px solid #FFFFFF;     
+  border-right:3px solid #FFFFFF; 
 }
 
 .blue{
@@ -58,6 +60,8 @@ div{
   border:0;
   border-right:5px solid #FFFFFF;
   border-top:2px solid #FFFFFF;
+  border-left:3px solid #FFFFFF;
+  border-bottom:3px solid #FFFFFF;
 }
 
 .yellow{
@@ -67,6 +71,8 @@ div{
   border:0;
   border-left:5px solid #FFFFFF;
   border-bottom:2px solid #FFFFFF;
+  border-top:3px solid #FFFFFF;
+  border-right:3px solid #FFFFFF;
 }
 
 .green{
@@ -76,6 +82,8 @@ div{
   border:0;
   border-right:5px solid #FFFFFF;
   border-top:2px solid #FFFFFF;
+  border-left:3px solid #FFFFFF;      
+  border-bottom:3px solid #FFFFFF;
 }
 
 footer{
